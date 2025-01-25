@@ -25,3 +25,5 @@ yarn start
 ## Credits
 
 This project was forked from [kenny-io/react-contacts](https://github.com/kenny-io/react-contacts) and modified with several code changes (i.e., a functional component re-write, minor improvements, etc.) This repository was created as the starter project for [this LogRocket blog post](https://blog.logrocket.com/debug-react-applications-with-the-new-react-devtools/). Credit goes to the original technical writer and repository owner, [Peter Ekene Eze](https://blog.logrocket.com/author/peterekeneeze/).
+
+## More about React DevTools [here](https://github.com/facebook/react/blob/main/packages/react-devtools/OVERVIEW.md)
